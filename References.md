@@ -5,6 +5,9 @@ Access Code: 734-448-029
 
 New to GoToMeeting? Get the app now and be ready when your first meeting starts: https://global.gotomeeting.com/install/734448029
 
+#### Notes :
+[Class Notes](https://docs.google.com/document/d/11FBVsNBxY3ewkwykO4mkp1PHrBdXQbxSu0xQllSUdL0/edit?usp=sharing)
+
 
 #### Reference for the Android : 
 [Android](https://developer.android.com/courses/fundamentals-training/overview-v2)

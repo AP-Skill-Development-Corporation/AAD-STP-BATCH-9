@@ -1,5 +1,5 @@
 #### Go-To-Meeting Link for class : 
-[Android Students's Workshop](https://www.gotomeet.me/17491a0520qise)
+[Android Student's Workshop](https://www.gotomeet.me/17491a0520qise)
 
 Access Code: 734-448-029
 

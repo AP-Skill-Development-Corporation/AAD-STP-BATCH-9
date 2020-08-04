@@ -1,3 +1,11 @@
+#### Go-To-Meeting Link for class : 
+[Android Students's Workshop](https://www.gotomeet.me/17491a0520qise)
+
+Access Code: 734-448-029
+
+New to GoToMeeting? Get the app now and be ready when your first meeting starts: https://global.gotomeeting.com/install/734448029
+
+
 #### Reference for the Android : 
 [Android](https://developer.android.com/courses/fundamentals-training/overview-v2)
 

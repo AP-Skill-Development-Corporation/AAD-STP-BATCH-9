@@ -19,3 +19,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 
 #### Day 2 Recording Session :
 [Day 2](https://transcripts.gotomeeting.com/#/s/badb387aa67051f26455f42592923871bcbef8ae661c3bc13ef016a8f4bb7e88)
+
+
+#### Day 3 Recording Session :
+[Day 3](https://transcripts.gotomeeting.com/#/s/57e34ed84ed5adf5a8154f317cfac7d1af8f641898cef4131825dd134663dd3e)

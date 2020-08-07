@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExampleRegister</string>
+    <string name="tv">
+        This is my website www.facebook.com.\n
+        This is my email chaitanyakarri554@gmail.com.\n
+        This is my number +918247253702. </string>
+    <string-array name="branch">
+       <item>- - - - - select your branch - - - - -</item>
+       <item>CSE</item>
+       <item>IT</item>
+       <item>ECE</item>
+       <item>EEE</item>
+       <item>CIVIL</item>
+       <item>MECH</item>
+   </string-array>
+
+</resources>

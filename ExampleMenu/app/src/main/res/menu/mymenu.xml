@@ -7,4 +7,8 @@
             android:id="@+id/exit"
             android:icon="@drawable/ic_exit"
             app:showAsAction="always"/>
+        <item android:id="@+id/date"
+                android:title="date"/>
+        <item android:id="@+id/time"
+                android:title="time"/>
 </menu>

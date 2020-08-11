@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.cherry.examplenav.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_redFragment"
+            app:destination="@id/redFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_greenFragment"
+            app:destination="@id/greenFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_blueFragment"
+            app:destination="@id/blueFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/redFragment"
+        android:name="com.example.cherry.examplenav.RedFragment"
+        android:label="fragment_red"
+        tools:layout="@layout/fragment_red" />
+    <fragment
+        android:id="@+id/greenFragment"
+        android:name="com.example.cherry.examplenav.GreenFragment"
+        android:label="fragment_green"
+        tools:layout="@layout/fragment_green" />
+    <fragment
+        android:id="@+id/blueFragment"
+        android:name="com.example.cherry.examplenav.BlueFragment"
+        android:label="fragment_blue"
+        tools:layout="@layout/fragment_blue" />
+</navigation>

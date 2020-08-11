@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+ <Button
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="Red Fragment"
+     android:background="#FF0000"
+     android:layout_weight="1"
+     android:id="@+id/red"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Green Fragment"
+        android:background="#00FF00"
+        android:layout_weight="1"
+        android:id="@+id/green"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Blue Fragment"
+        android:layout_weight="1"
+        android:background="#0000FF"
+        android:id="@+id/blue"/>
+    </LinearLayout>
+</FrameLayout>

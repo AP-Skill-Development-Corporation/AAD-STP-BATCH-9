@@ -14,11 +14,12 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.HoldView> {
     Context ct;
     String names[];
     int images[];
-    public MyAdapter(Context ct, String[] names, int[] images) {
-        this.ct = ct;
-        this.names = names;
-        this.images = images;
-    }
+
+      public MyAdapter(Context ct, String[] names, int[] images) {
+          this.ct = ct;
+          this.names = names;
+          this.images = images;
+      }
     @NonNull
     @Override
     public HoldView onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {

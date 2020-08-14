@@ -48,3 +48,10 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### Day 9 Recording Session :
 [Day 9-Part-1](https://transcripts.gotomeeting.com/#/s/e7edd7d9731ffe0432fb642bcaf87b5fc5f98beebee4a5e64d6ded0c6dff0fa1)
 [Day 9-Part-2](https://transcripts.gotomeeting.com/#/s/7733eac18163fe3c89fc97923345a96e5e1f539bea249be4a9adac6ebf548a7c)
+
+
+#### Day 10 Recording Session :
+[Day 10](https://transcripts.gotomeeting.com/#/s/bd2712c4c86570361a846d00dee3bbba80c349c1ecedd3dae4eeb2302ba39fa3)
+
+
+

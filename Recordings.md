@@ -5,6 +5,14 @@ Access Code: 734-448-029
 
 New to GoToMeeting? Get the app now and be ready when your first meeting starts: https://global.gotomeeting.com/install/734448029
 
+#### New Go-To-Meeting Link for class :
+[Android Student's Workshop](https://www.gotomeet.me/17491a0523qise)
+
+Access Code: 981-914-917
+
+New to GoToMeeting? Get the app now and be ready when your first meeting starts: https://global.gotomeeting.com/install/981914917
+
+
 #### Notes :
 [Class Notes](https://docs.google.com/document/d/11FBVsNBxY3ewkwykO4mkp1PHrBdXQbxSu0xQllSUdL0/edit?usp=sharing)
 
@@ -56,3 +64,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 
 #### Day 11 Recording Session :
 [Day 11](https://transcripts.gotomeeting.com/#/s/4790b779298adefa15fee7cd603a2ab4c5b7f1fd6322bc679e9cae3d3c9d6c69)
+
+
+#### Day 12 Recording Session :
+[Day 12](https://transcripts.gotomeeting.com/#/s/53c13133d8d517e6343688233fc8ea733d220e4e2a333d226b9f414c074d69c2)
